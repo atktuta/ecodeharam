@@ -1,0 +1,31 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>E-Code Haram</title>
+	<link rel="stylesheet" href="themes/kode-haram.min.css" />
+	<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+	<link rel="stylesheet" href="jquery.mobile.structure-1.4.5.min.css" />
+	<script src="jquery-1.11.1.min.js"></script>
+	<script src="jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+<form>
+    <input data-type="search" id="searchForCollapsibleSetChildren">
+</form>
+    <div data-role="collapsible-set" data-filter="true" data-children="> div, > div div ul li" data-inset="true" id="collapsiblesetForFilterChildren" data-input="#searchForCollapsibleSetChildren">
+        <div data-role="collapsible" data-filtertext="E101 E-101 'Vitamine G'">
+            <h3>E101</h3>
+            <ul data-role="listview" data-inset="false">
+                <li data-filtertext="E101 E-101 'Vitamine G'">Vitamine G</li>
+            </ul>
+        </div>
+        <div data-role="collapsible" data-filtertext="E101a E-101a 'Vitamine B2'">
+            <h3>E101a</h3>
+            <ul data-role="listview" data-inset="false">
+                <li data-filtertext="E101a E-101a 'Vitamine B2'">Vitamine B2</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

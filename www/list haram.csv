@@ -1,0 +1,106 @@
+E101,Vitamine G,Colorants Jaune
+E101i,Riboflavin,Colorants Jaune
+E101ii,Riboflavine 5'-phosphate,Colorants Jaune
+E101iii,Riboflavine de Bacillus subtilis,Colorants Jaune
+E101a,Vitamine B2,Colorants Jaune
+E120,Cochenille,Colorants Rouge
+E140,Chlorophylle,Colorants Vert
+E141,Complexes cuivre-chlorophylles,Colorants Vert
+E141i,Complexes cupriques de chlorophylles,Colorants Vert
+E141ii,Sels de sodium et de potassium de complexes cupriques de chlorophyllines,Colorants Vert
+E160f,Food orange 7,Colorants Orange
+E161a,Flavoxanthine,Colorants Jaune
+E161b,Lutéines,Colorants Jaune
+E161bi,Lutéines de Tagetes erecta,Colorants Jaune
+E161bii,Extraits de tagetes,Colorants Jaune
+E161c,Cryptoxanthine,Colorants Jaune
+E161d,Rubixanthine,Colorants Jaune
+E161e,Violaxanthine,Colorants Jaune
+E161f,Rhodoxanthine,Colorants Jaune
+E161g,Canthaxanthine,Colorants Orange
+E161h,Zéaxanthines,Colorants Orange-Rouge
+E161hi,Zéaxanthine de synthèse,Colorants Orange-Rouge
+E161hii,Zéaxanthine riche en extrait de Tagetes erecta,Colorants Orange-Rouge
+E162,Rouge de betterave,Colorants Rouge
+E163,Anthocyanes,Colorants Rouge
+E163ii,Extrait de peau de raisin,Colorants Rouge
+E163iii,Extrait de cassis,Colorants Rouge
+E163iv,Colorant du maïs pourpre,Colorants Rouge
+E163v,Colorant du chou rouge,Colorants Rouge
+E170,Carbonate de calcium,Colorants Blanc
+E170i,Carbonate de calcium,Colorants Blanc
+E170ii,Carbonate acide de calcium,Colorants Blanc
+E304,Palmitate d'ascorbyle,Anti-oxydants
+E322,Lécithines,Émulsifiants
+E322i,Lécithine,Émulsifiants
+E322ii,Lécithine partiellement hydrolysée,Émulsifiants
+E334,Acide tartrique,Acidifiants
+E335,Tartrate de sodium,Acidifiants
+E335i,Tartrate monosodique,Acidifiants
+E335ii,Tartrate disodique,Acidifiants
+E336,Tartrate de potassium,Acidifiants
+E336i,Tartrate monopotassique,Acidifiants
+E336ii,Tartrate dipotassique,Acidifiants
+E337,Tartrate de potassium sodium,Acidifiants
+E353,Acide métatartrique,Acidifiants
+E354,Tartrate de calcium,Acidifiants
+E387,Oxystéarine,Anti-oxydants
+E431,Polyoxyl 40 stéarate,Émulsifiants
+E432,Polysorbate 20,Émulsifiants
+E433,Polysorbate 80,Émulsifiants
+E434,Polysorbate 40,Émulsifiants
+E435,Polysorbate 60,Émulsifiants
+E436,Polysorbate 65,Émulsifiants
+E462,Ethylcellulose,Émulsifiants
+E470,"Sels d'acides gras (ayant pour base le calcium, le magnésium, le potassium, le sodium)",Émulsifiants
+E470i,"Sels d'acides gras de calcium, potassium et sodium",Acidifiants
+E470ii,Sels d'acides gras de magnésium,Émulsifiants
+E471,Monostéarine,Émulsifiants
+E472a,Acétoglycérides,Émulsifiants
+E472b,Lactoglycérides,Émulsifiants
+E472c,Citroglycérides,Émulsifiants
+E472d,Esters tartriques des mono- et diglycérides d'acides gras,Émulsifiants
+E472e,Esters monoacétyltartriques et diacétyltartriques des mono- et diglycérides d'acides gras,Émulsifiants
+E472f,Esters mixtes acétique et tartrique des mono- et diglycérides d'acides gras,Émulsifiants
+E472g,Monoglycérides succinyles,Émulsifiants
+E473,Esters de sucre,Émulsifiants
+E473a,Oligoesters de saccharose de type I et de type II,Émulsifiants
+E474,Glycérides de sucre,Émulsifiants
+E475,Esters polyglycériques d'acides gras,Émulsifiants
+E476,Polyricinoléate de polyglycérol,Émulsifiants
+E477,Polyricinoléate de propylène glycol,Émulsifiants
+E478,Esters glycéroliques et propylène - glycoliques d'acides gras lactyles,Émulsifiants
+E479,Huile de soja oxydée par chauffage avec des mono- et diglycérides d'acides gras,Émulsifiants
+E481,Stéaroyllactylate de sodium,Émulsifiants
+E481i,Stéaryl de sodium lactylé,Émulsifiants
+E481ii,Oléyl de sodium lactylé,Émulsifiants
+E482,Stéaroyllactate de calcium,Émulsifiants
+E482i,Stéaryl de calcium lactylé,Émulsifiants
+E482ii,Oléyl de calcium lactylé,Émulsifiants
+E483,Tartrate de stéaryle,Divers
+E484,Citrate de stéaryle,Émulsifiants
+E491,Monostéarate de sorbitane,Émulsifiants
+E492,Tristéarate de sorbitane,Émulsifiants
+E493,Monolaurate de sorbitane,Émulsifiants
+E494,Monooléate de sorbitane,Émulsifiants
+E495,Monopalmitate de sorbitane,Émulsifiants
+E570,Acide stéarique,Acidifiants
+E572,Stéarate de magnésium,Épaississants
+E620,Acide glutamique,Exhausteurs
+E627,Guanylate de Sodium,Exhausteurs
+E630,Acide inosinique,Exhausteurs
+E631,Inosinate disodique,Exhausteurs
+E632,Inosinate dipotassique,Exhausteurs
+E633,Inosinate de calcium,Exhausteurs
+E634,Ribonucléotides calciques,Exhausteurs
+E635,Ribonucléotide Na,Exhausteurs
+E640,Glycine,Exhausteurs
+E900,Diméthicone,Émulsifiants
+E900a,Polydiméthylsiloxane,Émulsifiants
+E900b,Méthylphénylpolysiloxane,Émulsifiants
+E904,Résine de shellac,Divers
+E912,Ester de l'acide montanique,Divers
+E920,Lcystéine dérivés,Divers
+E441,Gélatine,Épaississants
+E519,Sulfate de cuivre II,Divers
+E542,Phosphate d'os,Acidifiants
